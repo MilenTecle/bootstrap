@@ -1,1 +1,1 @@
-# A walkthrough project to learn bootstrap.
+# A Code Institute walkthrough project to learn bootstrap.
